@@ -13,7 +13,7 @@ Modules for AI-native B2B demand generation, built for [federicoanedda.com](http
 In Claude Code:
 
 ```
-/plugin marketplace add fede-ane/gtm-powered-by-ai
+/plugin marketplace add federicoanedda/gtm-powered-by-ai
 /plugin install gtm-icp@gtm-powered-by-ai
 ```
 
