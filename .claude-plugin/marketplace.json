@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gtm-powered-by-ai",
+  "owner": {
+    "name": "Federico Anedda",
+    "url": "https://federicoanedda.com"
+  },
+  "metadata": {
+    "description": "GTM powered by AI: modules for AI-native B2B demand generation, one per part of the go-to-market. Each works on its own inside a shared gtm/ workspace."
+  },
+  "plugins": [
+    {
+      "name": "gtm-icp",
+      "description": "ICP, buying group and personas from your CRM deals and customer words.",
+      "source": "./plugins/gtm-icp",
+      "category": "productivity"
+    }
+  ]
+}

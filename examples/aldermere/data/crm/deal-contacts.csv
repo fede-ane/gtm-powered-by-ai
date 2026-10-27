@@ -1,0 +1,355 @@
+Record ID,Contact ID,First Name,Last Name,Email,Job Title,Department,Deal Role,Seniority,Joined Stage
+100003,C-0001,Nora,Silva,nora.silva@pinecrestsoftware.example,Director of Engineering,Engineering,,Director,Discovery
+100003,C-0002,Oskar,Chen,oskar.chen@pinecrestsoftware.example,Head of Treasury,Finance,,Director,Negotiation
+100003,C-0003,Nora,Nair,nora.nair@pinecrestsoftware.example,Legal and Risk Lead,Legal and Compliance,,Manager,
+100003,C-0004,Sofia,Berg,sofia.berg@pinecrestsoftware.example,Head of Operations,Operations,,Director,
+100003,C-0005,Dev,Eklund,dev.eklund@pinecrestsoftware.example,Marketing Manager,Operations,,Manager,Discovery
+100014,C-0006,Alba,Berg,alba.berg@sablefin.example,VP Engineering,Engineering,Champion,VP,Discovery
+100014,C-0007,Dev,Weber,dev.weber@sablefin.example,Finance Director,Finance,Budget owner,Director,
+100014,C-0008,Marta,Ferreira,marta.ferreira@sablefin.example,Operations Director,Operations,,Director,Negotiation
+100014,C-0009,Lena,Costa,lena.costa@sablefin.example,CEO,Operations,,C-level,Evaluation
+100035,C-0010,Marc,Nair,marc.nair@ostravalabs.example,Head of Platform,Engineering,,Director,Discovery
+100035,C-0011,Ines,Kovac,ines.kovac@ostravalabs.example,Finance Director,Finance,,Director,
+100035,C-0012,Elise,Patel,elise.patel@ostravalabs.example,Compliance Officer,Legal and Compliance,,Manager,Legal
+100035,C-0013,Karim,Novak,karim.novak@ostravalabs.example,Head of Operations,Operations,,Director,Evaluation
+100036,C-0014,Ivo,Dahl,ivo.dahl@quillbase.example,CTO,Engineering,Technical evaluator,C-level,Discovery
+100036,C-0015,Cara,Rossi,cara.rossi@quillbase.example,Operations Director,Operations,,Director,Negotiation
+100044,C-0016,Henrik,Dubois,henrik.dubois@redwateranalytics.example,Head of Platform,Engineering,Champion,Director,Discovery
+100044,C-0017,Elise,Vidal,elise.vidal@redwateranalytics.example,Finance Director,Finance,,Director,Evaluation
+100044,C-0018,Priya,Holm,priya.holm@redwateranalytics.example,Legal and Risk Lead,Legal and Compliance,,Manager,
+100047,C-0019,Priya,Ferreira,priya.ferreira@lumenwork.example,VP Engineering,Engineering,,VP,
+100047,C-0020,Jonas,Berg,jonas.berg@lumenwork.example,CFO,Finance,,C-level,Negotiation
+100047,C-0021,Nils,Berg,nils.berg@lumenwork.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,Legal
+100047,C-0022,Sam,Meyer,sam.meyer@lumenwork.example,Marketing Manager,Operations,,Manager,Negotiation
+100047,C-0023,Marta,Eklund,marta.eklund@lumenwork.example,Operations Director,Operations,,Director,
+100051,C-0024,Ines,Holm,ines.holm@vantageloom.example,Head of Engineering,Engineering,Technical evaluator,Director,
+100051,C-0025,Ivo,Meyer,ivo.meyer@vantageloom.example,CFO,Finance,Budget owner,C-level,Negotiation
+100051,C-0026,Ivo,Nair,ivo.nair@vantageloom.example,Product Manager,Product,,Manager,Evaluation
+100051,C-0027,Ivo,Holm,ivo.holm@vantageloom.example,CEO,Operations,,C-level,Evaluation
+100051,C-0028,Sofia,Costa,sofia.costa@vantageloom.example,Marketing Manager,Operations,,Manager,Discovery
+100058,C-0029,Elise,Okafor,elise.okafor@tidepoolsystems.example,Director of Engineering,Engineering,Champion,Director,Discovery
+100058,C-0030,Elise,Berg,elise.berg@tidepoolsystems.example,Head of Finance,Finance,,Director,Evaluation
+100058,C-0031,Cara,Berg,cara.berg@tidepoolsystems.example,Legal and Risk Lead,Legal and Compliance,,Manager,
+100058,C-0032,Henrik,Berg,henrik.berg@tidepoolsystems.example,Head of Operations,Operations,,Director,Discovery
+100058,C-0033,Dev,Brandt,dev.brandt@tidepoolsystems.example,Procurement Manager,Operations,,Manager,Discovery
+100072,C-0034,Oskar,Haddad,oskar.haddad@novafield.example,CTO,Engineering,Champion,C-level,Discovery
+100087,C-0035,Karim,Costa,karim.costa@kestrelfreight.example,VP Finance,Finance,Budget owner,VP,Negotiation
+100097,C-0036,Ines,Martin,ines.martin@umberstack.example,Director of Engineering,Engineering,Technical evaluator,Director,
+100097,C-0037,Laura,Eklund,laura.eklund@umberstack.example,Finance Director,Finance,,Director,Negotiation
+100097,C-0038,Jonas,Chen,jonas.chen@umberstack.example,Compliance Officer,Legal and Compliance,,Manager,
+100097,C-0039,Karim,Holm,karim.holm@umberstack.example,Operations Director,Operations,,Director,Discovery
+100097,C-0040,Tomas,Dubois,tomas.dubois@umberstack.example,Head of Operations,Operations,,Director,
+100112,C-0041,Marta,Lindqvist,marta.lindqvist@tallyroom.example,Director of Engineering,Engineering,,Director,Discovery
+100112,C-0042,Dev,Nair,dev.nair@tallyroom.example,CFO,Finance,Budget owner,C-level,
+100112,C-0043,Karim,Ferreira,karim.ferreira@tallyroom.example,Senior Product Manager,Product,User,Manager,Evaluation
+100112,C-0044,Tomas,Haddad,tomas.haddad@tallyroom.example,Procurement Manager,Operations,,Manager,Evaluation
+100115,C-0045,Marc,Berg,marc.berg@brightwellhealth.example,VP Engineering,Engineering,,VP,Discovery
+100115,C-0046,Anna,Berg,anna.berg@brightwellhealth.example,Head of Treasury,Finance,Budget owner,Director,Evaluation
+100115,C-0047,Felix,Dubois,felix.dubois@brightwellhealth.example,Product Manager,Product,,Manager,Evaluation
+100115,C-0048,Oskar,Holm,oskar.holm@brightwellhealth.example,Head of Operations,Operations,,Director,Evaluation
+100115,C-0049,Sam,Vidal,sam.vidal@brightwellhealth.example,Marketing Manager,Operations,,Manager,
+100117,C-0050,Felix,Vidal,felix.vidal@wrenfield.example,CTO,Engineering,Technical evaluator,C-level,Discovery
+100117,C-0051,Sofia,Petrov,sofia.petrov@wrenfield.example,VP Finance,Finance,Budget owner,VP,
+100117,C-0052,Marta,Martin,marta.martin@wrenfield.example,Senior Product Manager,Product,,Manager,Evaluation
+100117,C-0053,Cara,Haddad,cara.haddad@wrenfield.example,Head of Operations,Operations,,Director,Discovery
+100001,C-0054,Nils,Patel,nils.patel@fjordretail.example,CTO,Engineering,Technical evaluator,C-level,Discovery
+100001,C-0055,Dev,Weber,dev.weber@fjordretail.example,Finance Director,Finance,,Director,Negotiation
+100002,C-0056,Yara,Martin,yara.martin@ivoryworks.example,VP Engineering,Engineering,Technical evaluator,VP,Discovery
+100002,C-0057,Nora,Petrov,nora.petrov@ivoryworks.example,Senior Product Manager,Product,,Manager,Evaluation
+100004,C-0058,Nora,Holm,nora.holm@pebblestack.example,Director of Engineering,Engineering,,Director,Discovery
+100004,C-0059,Nora,Lindqvist,nora.lindqvist@pebblestack.example,Marketing Manager,Operations,,Manager,Negotiation
+100004,C-0060,Henrik,Meyer,henrik.meyer@pebblestack.example,CEO,Operations,,C-level,Evaluation
+100005,C-0061,Lena,Holm,lena.holm@lanternstack.example,VP Finance,Finance,,VP,
+100005,C-0062,Laura,Nair,laura.nair@lanternstack.example,CEO,Operations,,C-level,
+100005,C-0063,Sofia,Patel,sofia.patel@lanternstack.example,Operations Director,Operations,,Director,
+100006,C-0064,Peter,Nair,peter.nair@marloweapps.example,Head of Operations,Operations,,Director,Discovery
+100007,C-0065,Tomas,Costa,tomas.costa@harborpay.example,Head of Treasury,Finance,Budget owner,Director,
+100007,C-0066,Henrik,Ferreira,henrik.ferreira@harborpay.example,Head of Operations,Operations,,Director,Evaluation
+100008,C-0067,Nils,Meyer,nils.meyer@quibbly.example,Head of Engineering,Engineering,Champion,Director,
+100009,C-0068,Nora,Holm,nora.holm@juniperworks.example,VP Engineering,Engineering,Technical evaluator,VP,
+100009,C-0069,Ines,Haddad,ines.haddad@juniperworks.example,Head of Finance,Finance,,Director,Evaluation
+100009,C-0070,Felix,Kovac,felix.kovac@juniperworks.example,Marketing Manager,Operations,,Manager,
+100009,C-0071,Nils,Chen,nils.chen@juniperworks.example,Marketing Manager,Operations,,Manager,Evaluation
+100010,C-0072,Sofia,Lindqvist,sofia.lindqvist@thistlelogic.example,VP Finance,Finance,,VP,Negotiation
+100010,C-0073,Tomas,Patel,tomas.patel@thistlelogic.example,Head of Operations,Operations,,Director,Evaluation
+100011,C-0074,Priya,Okafor,priya.okafor@onyxgrid.example,Finance Director,Finance,Budget owner,Director,Evaluation
+100012,C-0075,Laura,Weber,laura.weber@cobaltcloud.example,Marketing Manager,Operations,,Manager,Evaluation
+100012,C-0076,Cara,Holm,cara.holm@cobaltcloud.example,Operations Director,Operations,,Director,Discovery
+100013,C-0077,Nils,Silva,nils.silva@yarrowlabs.example,Head of Engineering,Engineering,Technical evaluator,Director,Discovery
+100013,C-0078,Alba,Eklund,alba.eklund@yarrowlabs.example,Head of Finance,Finance,Budget owner,Director,Negotiation
+100015,C-0079,Yara,Okafor,yara.okafor@ravenretail.example,Director of Engineering,Engineering,Champion,Director,
+100015,C-0080,Tomas,Chen,tomas.chen@ravenretail.example,Head of Finance,Finance,Budget owner,Director,
+100017,C-0081,Alba,Martin,alba.martin@emberandoak.example,Head of Engineering,Engineering,Technical evaluator,Director,Discovery
+100017,C-0082,Sofia,Nair,sofia.nair@emberandoak.example,Head of Finance,Finance,,Director,Negotiation
+100017,C-0083,Felix,Novak,felix.novak@emberandoak.example,Head of Operations,Operations,,Director,
+100017,C-0084,Tomas,Silva,tomas.silva@emberandoak.example,CEO,Operations,,C-level,Negotiation
+100018,C-0085,Marc,Ferreira,marc.ferreira@birchcart.example,Head of Platform,Engineering,Technical evaluator,Director,Discovery
+100018,C-0086,Karim,Ferreira,karim.ferreira@birchcart.example,CFO,Finance,Budget owner,C-level,Negotiation
+100018,C-0087,Yara,Eklund,yara.eklund@birchcart.example,Marketing Manager,Operations,,Manager,Discovery
+100018,C-0088,Peter,Martin,peter.martin@birchcart.example,Marketing Manager,Operations,,Manager,Negotiation
+100019,C-0089,Elise,Nair,elise.nair@rookwoodlabs.example,Head of Platform,Engineering,,Director,
+100019,C-0090,Karim,Dahl,karim.dahl@rookwoodlabs.example,Head of Finance,Finance,Budget owner,Director,Negotiation
+100019,C-0091,Tomas,Nair,tomas.nair@rookwoodlabs.example,Marketing Manager,Operations,,Manager,Discovery
+100019,C-0092,Marta,Nair,marta.nair@rookwoodlabs.example,Procurement Manager,Operations,,Manager,Negotiation
+100020,C-0093,Jonas,Dubois,jonas.dubois@alderbrookmarket.example,Head of Engineering,Engineering,Technical evaluator,Director,
+100020,C-0094,Henrik,Berg,henrik.berg@alderbrookmarket.example,CFO,Finance,Budget owner,C-level,
+100020,C-0095,Lena,Weber,lena.weber@alderbrookmarket.example,Senior Product Manager,Product,User,Manager,Evaluation
+100020,C-0096,Ivo,Berg,ivo.berg@alderbrookmarket.example,Marketing Manager,Operations,,Manager,Negotiation
+100021,C-0097,Alba,Petrov,alba.petrov@cobalttrade.example,VP Engineering,Engineering,,VP,
+100021,C-0098,Cara,Dubois,cara.dubois@cobalttrade.example,Head of Product,Product,,Director,Evaluation
+100022,C-0099,Anna,Okafor,anna.okafor@fjordgrid.example,VP Engineering,Engineering,,VP,
+100022,C-0100,Anna,Okafor,anna.okafor@fjordgrid.example,Head of Treasury,Finance,,Director,Evaluation
+100022,C-0101,Oskar,Aziz,oskar.aziz@fjordgrid.example,Legal and Risk Lead,Legal and Compliance,,Manager,Legal
+100023,C-0102,Karim,Haddad,karim.haddad@quartztrade.example,CEO,Operations,,C-level,Discovery
+100024,C-0103,Marta,Haddad,marta.haddad@nimbusdata.example,Operations Director,Operations,,Director,Discovery
+100024,C-0104,Sofia,Chen,sofia.chen@nimbusdata.example,Operations Director,Operations,,Director,Negotiation
+100025,C-0105,Ivo,Meyer,ivo.meyer@granitesystems.example,Director of Engineering,Engineering,,Director,
+100025,C-0106,Alba,Chen,alba.chen@granitesystems.example,CFO,Finance,Budget owner,C-level,Evaluation
+100026,C-0107,Nils,Vidal,nils.vidal@fableford.example,Product Manager,Product,User,Manager,
+100026,C-0108,Henrik,Silva,henrik.silva@fableford.example,CEO,Operations,,C-level,Discovery
+100027,C-0109,Elise,Petrov,elise.petrov@fjordlogic.example,Product Manager,Product,User,Manager,Evaluation
+100027,C-0110,Alba,Nair,alba.nair@fjordlogic.example,Procurement Manager,Operations,,Manager,
+100028,C-0111,Henrik,Nair,henrik.nair@kitecloud.example,VP Engineering,Engineering,,VP,
+100028,C-0112,Cara,Petrov,cara.petrov@kitecloud.example,CFO,Finance,Budget owner,C-level,
+100028,C-0113,Felix,Costa,felix.costa@kitecloud.example,Marketing Manager,Operations,,Manager,
+100028,C-0114,Peter,Dubois,peter.dubois@kitecloud.example,Head of Operations,Operations,,Director,Discovery
+100029,C-0115,Yara,Brandt,yara.brandt@thistlestack.example,Finance Director,Finance,,Director,
+100030,C-0116,Yara,Brandt,yara.brandt@castellanesavings.example,VP Engineering,Engineering,,VP,Discovery
+100030,C-0117,Yara,Dubois,yara.dubois@castellanesavings.example,CFO,Finance,Budget owner,C-level,Evaluation
+100030,C-0118,Nora,Dahl,nora.dahl@castellanesavings.example,Compliance Officer,Legal and Compliance,Blocker,Manager,Legal
+100030,C-0119,Laura,Meyer,laura.meyer@castellanesavings.example,Product Manager,Product,,Manager,Evaluation
+100031,C-0120,Alba,Nair,alba.nair@thistlesystems.example,VP Engineering,Engineering,,VP,Discovery
+100031,C-0121,Cara,Petrov,cara.petrov@thistlesystems.example,Compliance Officer,Legal and Compliance,Blocker,Manager,
+100031,C-0122,Dev,Chen,dev.chen@thistlesystems.example,CEO,Operations,,C-level,
+100031,C-0123,Anna,Okafor,anna.okafor@thistlesystems.example,Procurement Manager,Operations,,Manager,Discovery
+100032,C-0124,Lena,Haddad,lena.haddad@nimbleroot.example,VP Engineering,Engineering,,VP,Discovery
+100033,C-0125,Lena,Weber,lena.weber@zephyrfreight.example,Head of Engineering,Engineering,,Director,Discovery
+100034,C-0126,Anna,Chen,anna.chen@slatemobility.example,VP Engineering,Engineering,,VP,Discovery
+100037,C-0127,Anna,Rossi,anna.rossi@pixelnook.example,Director of Engineering,Engineering,Technical evaluator,Director,Discovery
+100037,C-0128,Oskar,Ferreira,oskar.ferreira@pixelnook.example,Product Manager,Product,User,Manager,
+100037,C-0129,Henrik,Eklund,henrik.eklund@pixelnook.example,CEO,Operations,,C-level,Negotiation
+100038,C-0130,Nils,Berg,nils.berg@junipersystems.example,CTO,Engineering,Champion,C-level,Discovery
+100038,C-0131,Karim,Weber,karim.weber@junipersystems.example,CFO,Finance,,C-level,Negotiation
+100038,C-0132,Peter,Chen,peter.chen@junipersystems.example,Operations Director,Operations,,Director,Discovery
+100038,C-0133,Yara,Meyer,yara.meyer@junipersystems.example,Marketing Manager,Operations,,Manager,Evaluation
+100039,C-0134,Henrik,Martin,henrik.martin@nimbusledger.example,Director of Engineering,Engineering,,Director,Discovery
+100039,C-0135,Tomas,Aziz,tomas.aziz@nimbusledger.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,Legal
+100039,C-0136,Ines,Costa,ines.costa@nimbusledger.example,Head of Product,Product,,Director,
+100039,C-0137,Peter,Eklund,peter.eklund@nimbusledger.example,CEO,Operations,,C-level,Discovery
+100040,C-0138,Elise,Novak,elise.novak@nimbuspay.example,Head of Engineering,Engineering,Champion,Director,
+100041,C-0139,Ivo,Eklund,ivo.eklund@cobaltpay.example,Head of Platform,Engineering,Technical evaluator,Director,Discovery
+100041,C-0140,Marc,Nair,marc.nair@cobaltpay.example,Head of Treasury,Finance,Budget owner,Director,Evaluation
+100042,C-0141,Henrik,Vidal,henrik.vidal@birchcloud.example,Director of Engineering,Engineering,Champion,Director,Discovery
+100042,C-0142,Tomas,Dahl,tomas.dahl@birchcloud.example,Finance Director,Finance,Budget owner,Director,Negotiation
+100042,C-0143,Peter,Vidal,peter.vidal@birchcloud.example,Compliance Officer,Legal and Compliance,Blocker,Manager,Legal
+100042,C-0144,Cara,Patel,cara.patel@birchcloud.example,Head of Operations,Operations,,Director,
+100043,C-0145,Ines,Aziz,ines.aziz@granitepay.example,Head of Finance,Finance,Budget owner,Director,Negotiation
+100043,C-0146,Felix,Novak,felix.novak@granitepay.example,CEO,Operations,,C-level,Evaluation
+100043,C-0147,Felix,Chen,felix.chen@granitepay.example,Operations Director,Operations,,Director,
+100045,C-0148,Karim,Dahl,karim.dahl@juniperfreight.example,Head of Platform,Engineering,,Director,Discovery
+100045,C-0149,Cara,Dahl,cara.dahl@juniperfreight.example,Finance Director,Finance,Budget owner,Director,Negotiation
+100045,C-0150,Nora,Aziz,nora.aziz@juniperfreight.example,Operations Director,Operations,,Director,Discovery
+100045,C-0151,Marta,Meyer,marta.meyer@juniperfreight.example,Head of Operations,Operations,,Director,Evaluation
+100046,C-0152,Yara,Meyer,yara.meyer@harborfreight.example,Head of Engineering,Engineering,Champion,Director,
+100046,C-0153,Tomas,Eklund,tomas.eklund@harborfreight.example,Head of Treasury,Finance,Budget owner,Director,
+100046,C-0154,Tomas,Eklund,tomas.eklund@harborfreight.example,Legal and Risk Lead,Legal and Compliance,,Manager,Legal
+100048,C-0155,Dev,Dahl,dev.dahl@granitemobility.example,Director of Engineering,Engineering,Technical evaluator,Director,
+100048,C-0156,Peter,Holm,peter.holm@granitemobility.example,Head of Product,Product,User,Director,
+100049,C-0157,Alba,Costa,alba.costa@ravencloud.example,Operations Director,Operations,,Director,Negotiation
+100050,C-0158,Karim,Dahl,karim.dahl@cobaltlabs.example,Head of Platform,Engineering,Champion,Director,Discovery
+100050,C-0159,Oskar,Berg,oskar.berg@cobaltlabs.example,Finance Director,Finance,Budget owner,Director,Negotiation
+100053,C-0160,Elise,Nair,elise.nair@dawnfreight.example,VP Finance,Finance,Budget owner,VP,Negotiation
+100053,C-0161,Lena,Berg,lena.berg@dawnfreight.example,Procurement Manager,Operations,,Manager,Evaluation
+100054,C-0162,Laura,Lindqvist,laura.lindqvist@willowdata.example,Procurement Manager,Operations,,Manager,
+100055,C-0163,Henrik,Meyer,henrik.meyer@yarrowlogic.example,VP Engineering,Engineering,Champion,VP,Discovery
+100055,C-0164,Felix,Vidal,felix.vidal@yarrowlogic.example,Finance Director,Finance,Budget owner,Director,
+100055,C-0165,Yara,Kovac,yara.kovac@yarrowlogic.example,Compliance Officer,Legal and Compliance,Blocker,Manager,
+100055,C-0166,Ivo,Okafor,ivo.okafor@yarrowlogic.example,Operations Director,Operations,,Director,Evaluation
+100056,C-0167,Karim,Eklund,karim.eklund@graniteretail.example,Head of Treasury,Finance,Budget owner,Director,Evaluation
+100056,C-0168,Yara,Okafor,yara.okafor@graniteretail.example,Senior Product Manager,Product,User,Manager,Evaluation
+100056,C-0169,Tomas,Dubois,tomas.dubois@graniteretail.example,Operations Director,Operations,,Director,
+100056,C-0170,Tomas,Aziz,tomas.aziz@graniteretail.example,Procurement Manager,Operations,,Manager,Negotiation
+100057,C-0171,Cara,Holm,cara.holm@hushpay.example,Product Manager,Product,,Manager,Evaluation
+100059,C-0172,Nils,Silva,nils.silva@juniperledger.example,Compliance Officer,Legal and Compliance,Blocker,Manager,
+100059,C-0173,Dev,Martin,dev.martin@juniperledger.example,Marketing Manager,Operations,,Manager,
+100060,C-0174,Ivo,Rossi,ivo.rossi@quartzsystems.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,
+100060,C-0175,Nils,Martin,nils.martin@quartzsystems.example,Procurement Manager,Operations,,Manager,Discovery
+100060,C-0176,Sofia,Berg,sofia.berg@quartzsystems.example,Marketing Manager,Operations,,Manager,
+100061,C-0177,Karim,Nair,karim.nair@gladewelltrade.example,CFO,Finance,Budget owner,C-level,Evaluation
+100063,C-0178,Cara,Dahl,cara.dahl@slatelabs.example,VP Engineering,Engineering,Champion,VP,Discovery
+100063,C-0179,Nils,Silva,nils.silva@slatelabs.example,VP Finance,Finance,Budget owner,VP,Evaluation
+100063,C-0180,Alba,Chen,alba.chen@slatelabs.example,Compliance Officer,Legal and Compliance,,Manager,
+100063,C-0181,Tomas,Nair,tomas.nair@slatelabs.example,Product Manager,Product,User,Manager,Evaluation
+100063,C-0182,Peter,Haddad,peter.haddad@slatelabs.example,Operations Director,Operations,,Director,Negotiation
+100064,C-0183,Elise,Berg,elise.berg@kiteretail.example,Finance Director,Finance,Budget owner,Director,Evaluation
+100064,C-0184,Nora,Patel,nora.patel@kiteretail.example,Product Manager,Product,User,Manager,Evaluation
+100065,C-0185,Anna,Okafor,anna.okafor@ivorylabs.example,Product Manager,Product,,Manager,Evaluation
+100065,C-0186,Marc,Dubois,marc.dubois@ivorylabs.example,Head of Operations,Operations,,Director,Negotiation
+100066,C-0187,Henrik,Holm,henrik.holm@fjordworks.example,Head of Platform,Engineering,Champion,Director,Discovery
+100066,C-0188,Henrik,Martin,henrik.martin@fjordworks.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,
+100066,C-0189,Marta,Martin,marta.martin@fjordworks.example,Head of Operations,Operations,,Director,
+100066,C-0190,Lena,Eklund,lena.eklund@fjordworks.example,Procurement Manager,Operations,,Manager,
+100067,C-0191,Anna,Patel,anna.patel@granitegrid.example,CTO,Engineering,Technical evaluator,C-level,
+100067,C-0192,Lena,Petrov,lena.petrov@granitegrid.example,CFO,Finance,,C-level,Evaluation
+100067,C-0193,Felix,Silva,felix.silva@granitegrid.example,Head of Compliance,Legal and Compliance,Blocker,Director,Legal
+100068,C-0194,Cara,Ferreira,cara.ferreira@dunmoreexchange.example,Head of Platform,Engineering,,Director,
+100068,C-0195,Dev,Okafor,dev.okafor@dunmoreexchange.example,Head of Product,Product,User,Director,
+100069,C-0196,Marta,Lindqvist,marta.lindqvist@elmsteadgoods.example,Head of Engineering,Engineering,,Director,Discovery
+100069,C-0197,Anna,Eklund,anna.eklund@elmsteadgoods.example,Finance Director,Finance,,Director,
+100069,C-0198,Alba,Haddad,alba.haddad@elmsteadgoods.example,Procurement Manager,Operations,,Manager,Discovery
+100070,C-0199,Anna,Silva,anna.silva@fjordfreight.example,Senior Product Manager,Product,User,Manager,
+100070,C-0200,Marta,Ferreira,marta.ferreira@fjordfreight.example,CEO,Operations,,C-level,
+100071,C-0201,Ivo,Vidal,ivo.vidal@onyxretail.example,Head of Platform,Engineering,Champion,Director,
+100071,C-0202,Marta,Dubois,marta.dubois@onyxretail.example,Head of Treasury,Finance,Budget owner,Director,Evaluation
+100071,C-0203,Alba,Patel,alba.patel@onyxretail.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,
+100071,C-0204,Tomas,Nair,tomas.nair@onyxretail.example,Operations Director,Operations,,Director,Evaluation
+100071,C-0205,Laura,Petrov,laura.petrov@onyxretail.example,Marketing Manager,Operations,,Manager,Evaluation
+100073,C-0206,Marta,Chen,marta.chen@onyxlogic.example,Head of Treasury,Finance,,Director,
+100073,C-0207,Sofia,Martin,sofia.martin@onyxlogic.example,Head of Compliance,Legal and Compliance,,Director,
+100073,C-0208,Priya,Petrov,priya.petrov@onyxlogic.example,Procurement Manager,Operations,,Manager,
+100073,C-0209,Tomas,Chen,tomas.chen@onyxlogic.example,Procurement Manager,Operations,,Manager,Negotiation
+100074,C-0210,Henrik,Rossi,henrik.rossi@harborlabs.example,Head of Platform,Engineering,Champion,Director,Discovery
+100074,C-0211,Priya,Kovac,priya.kovac@harborlabs.example,Compliance Officer,Legal and Compliance,,Manager,Legal
+100074,C-0212,Cara,Silva,cara.silva@harborlabs.example,Operations Director,Operations,,Director,Evaluation
+100075,C-0213,Marta,Costa,marta.costa@yarrowdata.example,VP Engineering,Engineering,Champion,VP,Discovery
+100075,C-0214,Cara,Ferreira,cara.ferreira@yarrowdata.example,Head of Finance,Finance,,Director,Evaluation
+100075,C-0215,Anna,Lindqvist,anna.lindqvist@yarrowdata.example,Legal and Risk Lead,Legal and Compliance,,Manager,Legal
+100075,C-0216,Sam,Weber,sam.weber@yarrowdata.example,CEO,Operations,,C-level,
+100076,C-0217,Oskar,Eklund,oskar.eklund@quartzlogic.example,Finance Director,Finance,Budget owner,Director,Evaluation
+100076,C-0218,Peter,Meyer,peter.meyer@quartzlogic.example,Operations Director,Operations,,Director,Discovery
+100076,C-0219,Felix,Rossi,felix.rossi@quartzlogic.example,Marketing Manager,Operations,,Manager,
+100077,C-0220,Henrik,Kovac,henrik.kovac@yarrowledger.example,Product Manager,Product,User,Manager,Evaluation
+100077,C-0221,Tomas,Patel,tomas.patel@yarrowledger.example,Procurement Manager,Operations,,Manager,Discovery
+100077,C-0222,Priya,Holm,priya.holm@yarrowledger.example,Procurement Manager,Operations,,Manager,Evaluation
+100078,C-0223,Elise,Patel,elise.patel@dawncloud.example,Head of Platform,Engineering,,Director,
+100078,C-0224,Karim,Costa,karim.costa@dawncloud.example,Head of Product,Product,User,Director,Evaluation
+100078,C-0225,Tomas,Weber,tomas.weber@dawncloud.example,Marketing Manager,Operations,,Manager,Negotiation
+100079,C-0226,Dev,Vidal,dev.vidal@dawnpay.example,Procurement Manager,Operations,,Manager,Evaluation
+100080,C-0227,Ivo,Rossi,ivo.rossi@onyxfreight.example,Head of Finance,Finance,,Director,Evaluation
+100080,C-0228,Anna,Kovac,anna.kovac@onyxfreight.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,Legal
+100080,C-0229,Yara,Lindqvist,yara.lindqvist@onyxfreight.example,Marketing Manager,Operations,,Manager,Negotiation
+100081,C-0230,Marta,Martin,marta.martin@quartzcloud.example,CTO,Engineering,,C-level,Discovery
+100081,C-0231,Jonas,Vidal,jonas.vidal@quartzcloud.example,Finance Director,Finance,Budget owner,Director,Evaluation
+100081,C-0232,Jonas,Costa,jonas.costa@quartzcloud.example,Head of Product,Product,User,Director,Evaluation
+100082,C-0233,Alba,Vidal,alba.vidal@thistlehealth.example,Head of Engineering,Engineering,Technical evaluator,Director,Discovery
+100082,C-0234,Tomas,Kovac,tomas.kovac@thistlehealth.example,Finance Director,Finance,Budget owner,Director,
+100082,C-0235,Laura,Nair,laura.nair@thistlehealth.example,Compliance Officer,Legal and Compliance,,Manager,
+100083,C-0236,Lena,Brandt,lena.brandt@willowpay.example,Director of Engineering,Engineering,Technical evaluator,Director,Discovery
+100083,C-0237,Ivo,Okafor,ivo.okafor@willowpay.example,CEO,Operations,,C-level,
+100084,C-0238,Yara,Dubois,yara.dubois@thistlelabs.example,Head of Finance,Finance,,Director,Evaluation
+100084,C-0239,Peter,Brandt,peter.brandt@thistlelabs.example,Head of Operations,Operations,,Director,
+100085,C-0240,Felix,Silva,felix.silva@onyxcloud.example,Head of Engineering,Engineering,Champion,Director,
+100085,C-0241,Marta,Dubois,marta.dubois@onyxcloud.example,Head of Compliance,Legal and Compliance,,Director,Legal
+100085,C-0242,Alba,Dahl,alba.dahl@onyxcloud.example,Marketing Manager,Operations,,Manager,Negotiation
+100086,C-0243,Anna,Aziz,anna.aziz@yarrowtrade.example,Director of Engineering,Engineering,Technical evaluator,Director,Discovery
+100086,C-0244,Priya,Meyer,priya.meyer@yarrowtrade.example,CFO,Finance,,C-level,
+100086,C-0245,Lena,Meyer,lena.meyer@yarrowtrade.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,Legal
+100086,C-0246,Marta,Lindqvist,marta.lindqvist@yarrowtrade.example,CEO,Operations,,C-level,
+100086,C-0247,Anna,Patel,anna.patel@yarrowtrade.example,Marketing Manager,Operations,,Manager,
+100088,C-0248,Dev,Okafor,dev.okafor@gizmoria.example,CEO,Operations,,C-level,
+100088,C-0249,Alba,Brandt,alba.brandt@gizmoria.example,CEO,Operations,,C-level,Negotiation
+100089,C-0250,Jonas,Chen,jonas.chen@thistlegrid.example,Operations Director,Operations,,Director,Discovery
+100089,C-0251,Karim,Chen,karim.chen@thistlegrid.example,Marketing Manager,Operations,,Manager,Evaluation
+100090,C-0252,Peter,Eklund,peter.eklund@quartzledger.example,CTO,Engineering,,C-level,Discovery
+100090,C-0253,Jonas,Okafor,jonas.okafor@quartzledger.example,Head of Finance,Finance,Budget owner,Director,Negotiation
+100091,C-0254,Sam,Berg,sam.berg@violetfreight.example,VP Engineering,Engineering,Technical evaluator,VP,
+100091,C-0255,Anna,Novak,anna.novak@violetfreight.example,Head of Treasury,Finance,,Director,Negotiation
+100091,C-0256,Nora,Petrov,nora.petrov@violetfreight.example,Compliance Officer,Legal and Compliance,Blocker,Manager,Legal
+100091,C-0257,Anna,Holm,anna.holm@violetfreight.example,Operations Director,Operations,,Director,Evaluation
+100091,C-0258,Sam,Berg,sam.berg@violetfreight.example,Marketing Manager,Operations,,Manager,
+100092,C-0259,Peter,Kovac,peter.kovac@maplefreight.example,Head of Treasury,Finance,Budget owner,Director,Negotiation
+100092,C-0260,Cara,Vidal,cara.vidal@maplefreight.example,CEO,Operations,,C-level,Evaluation
+100093,C-0261,Sofia,Eklund,sofia.eklund@cobaltfreight.example,Director of Engineering,Engineering,,Director,Discovery
+100093,C-0262,Alba,Okafor,alba.okafor@cobaltfreight.example,VP Finance,Finance,Budget owner,VP,Negotiation
+100093,C-0263,Sam,Meyer,sam.meyer@cobaltfreight.example,Marketing Manager,Operations,,Manager,
+100094,C-0264,Henrik,Brandt,henrik.brandt@violetlogic.example,Head of Engineering,Engineering,Champion,Director,Discovery
+100094,C-0265,Tomas,Chen,tomas.chen@violetlogic.example,VP Finance,Finance,,VP,
+100095,C-0266,Dev,Berg,dev.berg@juniperhealth.example,Director of Engineering,Engineering,Champion,Director,Discovery
+100095,C-0267,Felix,Weber,felix.weber@juniperhealth.example,VP Finance,Finance,,VP,Evaluation
+100095,C-0268,Cara,Rossi,cara.rossi@juniperhealth.example,Compliance Officer,Legal and Compliance,Blocker,Manager,Legal
+100095,C-0269,Anna,Silva,anna.silva@juniperhealth.example,Procurement Manager,Operations,,Manager,Discovery
+100095,C-0270,Priya,Lindqvist,priya.lindqvist@juniperhealth.example,Procurement Manager,Operations,,Manager,Discovery
+100096,C-0271,Ines,Holm,ines.holm@nimbusmobility.example,Head of Engineering,Engineering,,Director,Discovery
+100096,C-0272,Anna,Novak,anna.novak@nimbusmobility.example,Senior Product Manager,Product,,Manager,Evaluation
+100098,C-0273,Cara,Berg,cara.berg@birchgrid.example,CTO,Engineering,,C-level,Discovery
+100098,C-0274,Priya,Dubois,priya.dubois@birchgrid.example,Legal and Risk Lead,Legal and Compliance,Blocker,Manager,Legal
+100098,C-0275,Sofia,Berg,sofia.berg@birchgrid.example,Head of Product,Product,,Director,Evaluation
+100098,C-0276,Ines,Aziz,ines.aziz@birchgrid.example,Head of Operations,Operations,,Director,Discovery
+100099,C-0277,Lena,Chen,lena.chen@northhavenbank.example,CTO,Engineering,,C-level,Discovery
+100099,C-0278,Marta,Haddad,marta.haddad@northhavenbank.example,VP Finance,Finance,,VP,Evaluation
+100099,C-0279,Henrik,Nair,henrik.nair@northhavenbank.example,Legal and Risk Lead,Legal and Compliance,,Manager,Legal
+100099,C-0280,Ivo,Martin,ivo.martin@northhavenbank.example,Procurement Manager,Operations,,Manager,Discovery
+100100,C-0281,Nora,Silva,nora.silva@thistlecloud.example,Head of Platform,Engineering,Technical evaluator,Director,
+100100,C-0282,Sofia,Berg,sofia.berg@thistlecloud.example,Head of Compliance,Legal and Compliance,,Director,
+100100,C-0283,Nora,Patel,nora.patel@thistlecloud.example,Operations Director,Operations,,Director,Evaluation
+100100,C-0284,Karim,Brandt,karim.brandt@thistlecloud.example,CEO,Operations,,C-level,
+100101,C-0285,Sofia,Petrov,sofia.petrov@dawngrid.example,Head of Operations,Operations,,Director,
+100102,C-0286,Lena,Nair,lena.nair@willowledger.example,Compliance Officer,Legal and Compliance,Blocker,Manager,Legal
+100102,C-0287,Oskar,Vidal,oskar.vidal@willowledger.example,Head of Product,Product,User,Director,
+100103,C-0288,Lena,Eklund,lena.eklund@fjordpay.example,VP Engineering,Engineering,,VP,Discovery
+100103,C-0289,Oskar,Brandt,oskar.brandt@fjordpay.example,VP Finance,Finance,,VP,Evaluation
+100103,C-0290,Yara,Berg,yara.berg@fjordpay.example,Procurement Manager,Operations,,Manager,Discovery
+100103,C-0291,Ivo,Dahl,ivo.dahl@fjordpay.example,Head of Operations,Operations,,Director,Evaluation
+100104,C-0292,Marta,Haddad,marta.haddad@amberlabs.example,Finance Director,Finance,,Director,Evaluation
+100104,C-0293,Dev,Eklund,dev.eklund@amberlabs.example,CEO,Operations,,C-level,
+100104,C-0294,Lena,Aziz,lena.aziz@amberlabs.example,Head of Operations,Operations,,Director,Discovery
+100105,C-0295,Nils,Martin,nils.martin@harbordata.example,Head of Platform,Engineering,,Director,Discovery
+100105,C-0296,Laura,Chen,laura.chen@harbordata.example,Head of Operations,Operations,,Director,
+100106,C-0297,Marta,Berg,marta.berg@kitelogic.example,Finance Director,Finance,,Director,
+100106,C-0298,Anna,Holm,anna.holm@kitelogic.example,Compliance Officer,Legal and Compliance,Blocker,Manager,Legal
+100107,C-0299,Priya,Lindqvist,priya.lindqvist@slategrid.example,VP Finance,Finance,,VP,
+100107,C-0300,Ivo,Ferreira,ivo.ferreira@slategrid.example,Marketing Manager,Operations,,Manager,
+100108,C-0301,Dev,Aziz,dev.aziz@ivorysystems.example,Head of Engineering,Engineering,,Director,Discovery
+100108,C-0302,Karim,Berg,karim.berg@ivorysystems.example,VP Finance,Finance,Budget owner,VP,Negotiation
+100108,C-0303,Sofia,Vidal,sofia.vidal@ivorysystems.example,CEO,Operations,,C-level,Discovery
+100108,C-0304,Marta,Silva,marta.silva@ivorysystems.example,Procurement Manager,Operations,,Manager,Evaluation
+100109,C-0305,Tomas,Kovac,tomas.kovac@ravenworks.example,Head of Platform,Engineering,Technical evaluator,Director,
+100109,C-0306,Peter,Vidal,peter.vidal@ravenworks.example,Head of Treasury,Finance,,Director,
+100109,C-0307,Marc,Silva,marc.silva@ravenworks.example,CEO,Operations,,C-level,Discovery
+100110,C-0308,Felix,Haddad,felix.haddad@ivorydata.example,Marketing Manager,Operations,,Manager,
+100110,C-0309,Jonas,Weber,jonas.weber@ivorydata.example,Operations Director,Operations,,Director,Discovery
+100111,C-0310,Sam,Rossi,sam.rossi@coppergate.example,Head of Engineering,Engineering,,Director,Discovery
+100111,C-0311,Sofia,Martin,sofia.martin@coppergate.example,Head of Operations,Operations,,Director,Discovery
+100111,C-0312,Jonas,Holm,jonas.holm@coppergate.example,Procurement Manager,Operations,,Manager,Evaluation
+100113,C-0313,Sofia,Patel,sofia.patel@ivorystack.example,VP Engineering,Engineering,Technical evaluator,VP,
+100113,C-0314,Priya,Silva,priya.silva@ivorystack.example,Operations Director,Operations,,Director,Discovery
+100113,C-0315,Peter,Kovac,peter.kovac@ivorystack.example,Head of Operations,Operations,,Director,Discovery
+100114,C-0316,Nora,Holm,nora.holm@onyxsystems.example,Head of Engineering,Engineering,Technical evaluator,Director,Discovery
+100114,C-0317,Priya,Weber,priya.weber@onyxsystems.example,CFO,Finance,,C-level,
+100116,C-0318,Nils,Dahl,nils.dahl@birchdata.example,Director of Engineering,Engineering,,Director,Discovery
+100116,C-0319,Sam,Haddad,sam.haddad@birchdata.example,VP Finance,Finance,Budget owner,VP,Evaluation
+100116,C-0320,Yara,Rossi,yara.rossi@birchdata.example,Operations Director,Operations,,Director,Negotiation
+100118,C-0321,Ines,Dahl,ines.dahl@lanterncloud.example,Head of Finance,Finance,Budget owner,Director,Negotiation
+100119,C-0322,Tomas,Martin,tomas.martin@dawndata.example,Head of Product,Product,,Director,Evaluation
+100120,C-0323,Cara,Haddad,cara.haddad@harborworks.example,Head of Engineering,Engineering,,Director,
+100120,C-0324,Nils,Holm,nils.holm@harborworks.example,Finance Director,Finance,Budget owner,Director,
+100120,C-0325,Marta,Haddad,marta.haddad@harborworks.example,Head of Product,Product,,Director,Evaluation
+100121,C-0326,Nora,Ferreira,nora.ferreira@fernhollow.example,Head of Finance,Finance,,Director,
+100121,C-0327,Karim,Meyer,karim.meyer@fernhollow.example,Marketing Manager,Operations,,Manager,Evaluation
+100121,C-0328,Peter,Novak,peter.novak@fernhollow.example,Marketing Manager,Operations,,Manager,
+100122,C-0329,Elise,Brandt,elise.brandt@thistlemobility.example,Head of Finance,Finance,,Director,
+100122,C-0330,Laura,Okafor,laura.okafor@thistlemobility.example,Head of Product,Product,,Director,Evaluation
+100122,C-0331,Cara,Meyer,cara.meyer@thistlemobility.example,Head of Operations,Operations,,Director,
+100122,C-0332,Lena,Berg,lena.berg@thistlemobility.example,Head of Operations,Operations,,Director,
+100123,C-0333,Oskar,Holm,oskar.holm@amberhealth.example,Finance Director,Finance,Budget owner,Director,Negotiation
+100123,C-0334,Oskar,Ferreira,oskar.ferreira@amberhealth.example,Procurement Manager,Operations,,Manager,Discovery
+100123,C-0335,Alba,Vidal,alba.vidal@amberhealth.example,Procurement Manager,Operations,,Manager,Discovery
+100124,C-0336,Peter,Kovac,peter.kovac@ravenlogic.example,Head of Platform,Engineering,Champion,Director,Discovery
+100124,C-0337,Priya,Aziz,priya.aziz@ravenlogic.example,Head of Finance,Finance,Budget owner,Director,Negotiation
+100124,C-0338,Oskar,Okafor,oskar.okafor@ravenlogic.example,Operations Director,Operations,,Director,
+100124,C-0339,Lena,Brandt,lena.brandt@ravenlogic.example,Marketing Manager,Operations,,Manager,Evaluation
+100125,C-0340,Jonas,Eklund,jonas.eklund@ravenhealth.example,VP Finance,Finance,,VP,
+100126,C-0341,Anna,Novak,anna.novak@birchlogic.example,Director of Engineering,Engineering,Champion,Director,Discovery
+100126,C-0342,Marta,Weber,marta.weber@birchlogic.example,Procurement Manager,Operations,,Manager,Negotiation
+100126,C-0343,Nils,Rossi,nils.rossi@birchlogic.example,Head of Operations,Operations,,Director,
+100127,C-0344,Ines,Ferreira,ines.ferreira@slatefreight.example,Finance Director,Finance,,Director,Negotiation
+100127,C-0345,Felix,Dahl,felix.dahl@slatefreight.example,Head of Operations,Operations,,Director,Evaluation
+100128,C-0346,Sofia,Dubois,sofia.dubois@fjordlabs.example,Head of Engineering,Engineering,Champion,Director,Discovery
+100128,C-0347,Oskar,Nair,oskar.nair@fjordlabs.example,Head of Treasury,Finance,Budget owner,Director,Negotiation
+100129,C-0348,Oskar,Dubois,oskar.dubois@cobaltsystems.example,CEO,Operations,,C-level,Negotiation
+100129,C-0349,Cara,Eklund,cara.eklund@cobaltsystems.example,CEO,Operations,,C-level,
+100130,C-0350,Yara,Dubois,yara.dubois@slatetrade.example,Head of Treasury,Finance,,Director,
+100130,C-0351,Priya,Holm,priya.holm@slatetrade.example,Head of Operations,Operations,,Director,
+100130,C-0352,Nora,Nair,nora.nair@slatetrade.example,CEO,Operations,,C-level,Negotiation
+100131,C-0353,Nora,Costa,nora.costa@lanternretail.example,Head of Engineering,Engineering,Technical evaluator,Director,
+100131,C-0354,Yara,Brandt,yara.brandt@lanternretail.example,Head of Operations,Operations,,Director,

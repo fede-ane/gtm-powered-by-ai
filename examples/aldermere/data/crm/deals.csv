@@ -1,0 +1,134 @@
+Record ID,Deal Stage,Create Date,Close Date,Amount,Company Name,Company Domain Name,Industry,Number of Employees,Country/Region,Markets Served,Company Type,Plan,Closed Lost Reason,Customer Status,Churn Date,Expansion Revenue,Support Tickets per Month,Onboarding Days
+100001,Closed Lost,2024-10-10,2024-11-22,21500,Fjord Retail,fjordretail.example,Marketplace,506,Poland,1,Marketplace,,Pricing: hidden fees concern,,,,,
+100002,Closed Lost,2024-10-16,2024-12-15,66000,Ivory Works,ivoryworks.example,Fintech software,1122,Sweden,6,B2B SaaS,,Went with in-house,,,,,
+100003,Closed Won,2024-10-19,2024-12-25,59500,Pinecrest Software,pinecrestsoftware.example,Software,825,Denmark,7,B2B SaaS,Scale,,churned,2026-01-24,15000,0.8,24
+100004,Closed Won,2024-10-20,2024-11-04,7500,Pebblestack,pebblestack.example,Software,14,United Kingdom,1,Start-up,Starter,,churned,2025-11-30,0,3.7,37
+100005,Closed Lost,2024-10-26,2024-12-19,23000,Lantern Stack,lanternstack.example,Marketplace,163,United Kingdom,1,Marketplace,,No decision,,,,,
+100006,Closed Won,2024-10-27,2024-11-11,5000,Marlowe Apps,marloweapps.example,Software,43,France,1,Start-up,Starter,,churned,2026-01-03,0,3.5,32
+100007,Closed Lost,2024-11-10,2025-01-20,41000,Harbor Pay,harborpay.example,Marketplace,498,Denmark,2,Marketplace,,Chose competitor,,,,,
+100008,Closed Won,2024-11-11,2024-11-30,7000,Quibbly,quibbly.example,Software,26,United Kingdom,1,Start-up,Starter,,churned,2025-10-15,0,2.9,40
+100009,Closed Lost,2024-11-15,2025-01-11,18500,Juniper Works,juniperworks.example,Marketplace,369,Germany,2,Marketplace,,No decision,,,,,
+100010,Closed Lost,2024-11-16,2024-12-11,8500,Thistle Logic,thistlelogic.example,Software,24,Spain,1,Start-up,,No budget,,,,,
+100011,Closed Lost,2024-11-22,2025-01-07,21000,Onyx Grid,onyxgrid.example,Marketplace,310,Sweden,1,Marketplace,,No budget,,,,,
+100012,Closed Lost,2024-11-24,2024-12-21,4500,Cobalt Cloud,cobaltcloud.example,Software,12,France,1,Start-up,,No budget,,,,,
+100013,Closed Lost,2024-11-25,2025-01-26,54500,Yarrow Labs,yarrowlabs.example,Logistics software,1418,Denmark,8,B2B SaaS,,Chose competitor,,,,,
+100014,Closed Won,2024-11-27,2025-03-03,34500,Sablefin,sablefin.example,Logistics software,1099,Ireland,3,B2B SaaS,Growth,,active,,8500,1.4,14
+100015,Closed Lost,2024-11-28,2025-03-28,30500,Raven Retail,ravenretail.example,Fintech software,1633,Sweden,6,B2B SaaS,,No decision,,,,,
+100016,Closed Lost,2024-12-09,2025-02-19,63500,Lantern Labs,lanternlabs.example,Software,1096,Denmark,3,B2B SaaS,,No decision,,,,,
+100017,Closed Won,2024-12-10,2024-12-29,7500,Ember and Oak,emberandoak.example,Software,35,Denmark,2,Start-up,Starter,,active,,0,3.1,39
+100018,Closed Won,2024-12-14,2025-02-02,26000,Birchcart,birchcart.example,Marketplace,106,United Kingdom,1,Marketplace,Growth,,active,,0,1.8,39
+100019,Closed Won,2024-12-19,2025-01-09,4500,Rookwood Labs,rookwoodlabs.example,Software,25,France,1,Start-up,Starter,,churned,2026-01-31,0,3.1,30
+100020,Closed Won,20/12/2024,12/03/2025,36000,Alderbrook Market,alderbrookmarket.example,Marketplace,532,France,2,Marketplace,Growth,,churned,2026-01-07,0,2.1,36
+100021,Closed Lost,2024-12-22,2025-03-31,61500,Cobalt Trade,cobalttrade.example,Software,1500,Ireland,9,B2B SaaS,,Chose competitor,,,,,
+100022,Closed Lost,2024-12-25,2025-05-19,67000,Fjord Grid,fjordgrid.example,Banking,15700,Spain,5,Bank,,Went with in-house,,,,,
+100023,Closed Lost,2024-12-28,2025-01-23,5000,Quartz Trade,quartztrade.example,Software,28,France,1,Start-up,,,,,,,
+100024,Closed Lost,2025-01-04,2025-01-25,5000,Nimbus Data,nimbusdata.example,Software,34,Sweden,2,Start-up,,No budget,,,,,
+100025,Closed Lost,2025-01-14,2025-01-29,8000,Granite Systems,granitesystems.example,Software,43,Ireland,1,Start-up,,Chose competitor,,,,,
+100026,Closed Won,2025-01-17,2025-02-11,4500,Fableford,fableford.example,Software,28,Italy,2,Start-up,Starter,,active,,0,2.9,36
+100027,Closed Lost,2025-01-18,2025-03-21,37000,Fjord Logic,fjordlogic.example,Marketplace,493,Poland,1,Marketplace,,No budget,,,,,
+100028,Closed Lost,2025-01-23,2025-03-20,64500,Kite Cloud,kitecloud.example,Logistics software,1046,United Kingdom,3,B2B SaaS,,Chose competitor,,,,,
+100029,Closed Lost,2025-01-26,2025-04-17,55000,Thistle Stack,thistlestack.example,Fintech software,1475,Ireland,9,B2B SaaS,,Chose competitor,,,,,
+100030,Closed Won,2025-01-29,2025-11-21,65000,Castellane Savings,castellanesavings.example,Banking,8845,Sweden,4,Bank,Scale,,active,,0,1.4,88
+100031,Closed Lost,2025-02-08,2025-09-14,83000,Thistle Systems,thistlesystems.example,Banking,12719,Ireland,5,Bank,,Went with in-house,,,,,
+100032,Closed Won,2025-02-22,2025-03-13,4500,Nimbleroot,nimbleroot.example,Software,9,France,1,Start-up,Starter,,churned,2025-11-18,10500,3.3,34
+100033,Closed Lost,2025-03-06,2025-07-20,53000,Zephyr Freight,zephyrfreight.example,Fintech software,1328,Poland,3,B2B SaaS,,No decision,,,,,
+100034,Closed Lost,2025-03-15,2025-05-16,49500,Slate Mobility,slatemobility.example,Fintech software,390,Germany,4,B2B SaaS,,Chose competitor,,,,,
+100035,Closed Won,2025-03-16,2025-06-06,53000,Ostrava Labs,ostravalabs.example,Fintech software,440,France,8,B2B SaaS,Scale,,active,,10500,0.9,25
+100036,Closed Won,2025-03-17,2025-06-20,36000,Quillbase,quillbase.example,Logistics software,1667,Poland,5,B2B SaaS,Growth,,active,,0,1.0,21
+100037,Closed Won,2025-03-21,2025-04-12,10000,Pixelnook,pixelnook.example,Software,34,Ireland,2,Start-up,Growth,,active,,0,2.8,33
+100038,Closed Lost,2025-04-01,2025-06-22,33000,Juniper Systems,junipersystems.example,Marketplace,547,Spain,1,Marketplace,,Pricing: hidden fees concern,,,,,
+100039,Closed Lost,2025-04-05,2025-09-19,38500,Nimbus Ledger,nimbusledger.example,Banking,17820,France,6,Bank,,Procurement cycle,,,,,
+100040,Closed Lost,2025-04-15,2025-06-11,29000,Nimbus Pay,nimbuspay.example,Marketplace,362,Italy,2,Marketplace,,Chose competitor,,,,,
+100041,Closed Lost,2025-04-20,2025-07-03,27500,Cobalt Pay,cobaltpay.example,Marketplace,82,Sweden,2,Marketplace,,No budget,,,,,
+100042,Closed Lost,2025-04-22,2025-10-15,43000,Birch Cloud,birchcloud.example,Banking,10434,Poland,5,Bank,,Went with in-house,,,,,
+100043,Closed Lost,2025-05-07,2025-06-18,31500,Granite Pay,granitepay.example,Marketplace,433,Poland,2,Marketplace,,Pricing: hidden fees concern,,,,,
+100044,Closed Won,2025-05-13,2025-08-15,46000,Redwater Analytics,redwateranalytics.example,Healthtech,1132,United Kingdom,5,B2B SaaS,Scale,,active,,15500,1.0,17
+100045,Closed Lost,2025-05-14,2025-12-11,59500,Juniper Freight,juniperfreight.example,Banking,17368,United Kingdom,5,Bank,,Went with in-house,,,,,
+100046,Closed Lost,2025-05-17,2025-07-26,19000,Harbor Freight,harborfreight.example,Marketplace,124,Ireland,2,Marketplace,,No budget,,,,,
+100047,Closed Won,2025-05-22,2025-07-30,40000,Lumenwork,lumenwork.example,Fintech software,990,France,8,B2B SaaS,Scale,,active,,17000,1.2,22
+100048,Closed Lost,2025-05-31,2025-08-20,40000,Granite Mobility,granitemobility.example,Marketplace,117,Poland,1,Marketplace,,No decision,,,,,
+100049,Closed Lost,2025-06-01,2025-08-07,39500,Raven Cloud,ravencloud.example,Software,405,Ireland,9,B2B SaaS,,No decision,,,,,
+100050,Closed Lost,2025-06-04,2025-08-04,,Cobalt Labs,cobaltlabs.example,Healthtech,1277,Netherlands,6,B2B SaaS,,,,,,,
+100051,Closed Won,2025-06-10,2025-08-11,34500,Vantage Loom,vantageloom.example,Software,1039,France,9,B2B SaaS,Growth,,active,,0,1.3,20
+100052,Closed Lost,2025-06-11,2025-09-09,37500,Lantern Systems,lanternsystems.example,Logistics software,1161,Sweden,9,B2B SaaS,,No decision,,,,,
+100053,Closed Lost,2025-06-12,2025-08-18,25000,Dawn Freight,dawnfreight.example,Marketplace,487,Italy,1,Marketplace,,Pricing: hidden fees concern,,,,,
+100054,Closed Lost,2025-06-22,2025-07-14,5000,Willow Data,willowdata.example,Software,28,Poland,2,Start-up,,Chose competitor,,,,,
+100055,Closed Lost,2025-06-23,2026-01-16,72000,Yarrow Logic,yarrowlogic.example,Banking,18116,United Kingdom,4,Bank,,,,,,,
+100056,Closed Lost,2025-06-27,2025-08-23,66000,Granite Retail,graniteretail.example,Fintech software,665,Germany,8,B2B SaaS,,Chose competitor,,,,,
+100057,Closed Won,2025-07-04,2025-07-23,5000,Hushpay,hushpay.example,Software,14,Ireland,1,Start-up,Starter,,active,,0,2.6,33
+100058,Closed Won,2025-07-12,2025-09-24,55000,Tidepool Systems,tidepoolsystems.example,Software,1621,Netherlands,5,B2B SaaS,Scale,,active,,0,1.3,13
+100059,Closed Lost,2025-07-13,2025-08-13,40000,Juniper Ledger,juniperledger.example,Marketplace,412,Sweden,1,Marketplace,,,,,,,
+100060,Closed Lost,2025-07-28,2025-10-11,45500,Quartz Systems,quartzsystems.example,Healthtech,967,France,6,B2B SaaS,,,,,,,
+100061,Closed Won,2025-08-03,2025-10-01,33000,Gladewell Trade,gladewelltrade.example,Marketplace,501,France,1,Marketplace,Growth,,active,,19500,1.7,25
+100062,Closed Lost,2025-08-06,2025-08-25,3500,Thistle Works,thistleworks.example,Software,13,Denmark,2,Start-up,,Chose competitor,,,,,
+100063,Closed Lost,2025-08-18,2025-10-04,29500,Slate Labs,slatelabs.example,Marketplace,589,United Kingdom,1,Marketplace,,No decision,,,,,
+100064,Closed Lost,2025-08-31,2025-10-06,28500,Kite Retail,kiteretail.example,Marketplace,340,Sweden,2,Marketplace,,Chose competitor,,,,,
+100065,Closed Lost,2025-09-04,2025-10-01,5500,Ivory Labs,ivorylabs.example,Software,37,Poland,2,Start-up,,No budget,,,,,
+100066,Closed Lost,2025-09-09,2026-03-29,51500,Fjord Works,fjordworks.example,Banking,9210,Italy,5,Bank,,Procurement cycle,,,,,
+100067,Closed Lost,2025-09-13,2026-05-27,74500,Granite Grid,granitegrid.example,Banking,18468,Sweden,5,Bank,,Went with in-house,,,,,
+100068,Closed Won,2025-09-23,2025-11-22,38500,Dunmore Exchange,dunmoreexchange.example,Marketplace,389,Spain,1,Marketplace,Growth,,active,,0,2.3,40
+100069,Closed Won,2025-10-14,2025-11-24,26500,Elmstead Goods,elmsteadgoods.example,Marketplace,189,Spain,1,Marketplace,Growth,,active,,0,2.0,38
+100070,Closed Lost,2025-10-14,2025-12-06,33000,Fjord Freight,fjordfreight.example,Marketplace,382,Netherlands,2,Marketplace,,Chose competitor,,,,,
+100071,Closed Lost,2025-10-21,2026-07-06,,Onyx Retail,onyxretail.example,Banking,12497,Denmark,4,Bank,,,,,,,
+100072,Closed Won,2025-10-23,2025-12-27,34500,Novafield,novafield.example,Logistics software,1441,Ireland,8,B2B SaaS,Growth,,active,,6000,0.7,18
+100073,Closed Lost,2025-10-24,2026-04-06,49500,Onyx Logic,onyxlogic.example,Banking,11770,Italy,6,Bank,,Compliance and licensing,,,,,
+100074,Closed Lost,2025-10-28,2026-04-18,69500,Harbor Labs,harborlabs.example,Banking,18430,Denmark,4,Bank,,Went with in-house,,,,,
+100075,Closed Lost,2025-10-29,2026-03-30,59500,Yarrow Data,yarrowdata.example,Banking,19104,France,6,Bank,,Compliance and licensing,,,,,
+100076,Closed Lost,2025-11-04,2026-01-17,39000,Quartz Logic,quartzlogic.example,Logistics software,1485,Netherlands,8,B2B SaaS,,Went with in-house,,,,,
+100077,Closed Lost,2025-11-13,2026-01-31,67000,Yarrow Ledger,yarrowledger.example,Logistics software,1102,Denmark,3,B2B SaaS,,Went with in-house,,,,,
+100078,Closed Lost,2025-11-17,2026-02-14,57000,Dawn Cloud,dawncloud.example,Logistics software,1699,Germany,4,B2B SaaS,,Integration time,,,,,
+100079,Closed Lost,2025-11-21,2026-03-07,36000,Dawn Pay,dawnpay.example,Healthtech,869,Spain,8,B2B SaaS,,Went with in-house,,,,,
+100080,Closed Lost,2025-11-30,2026-05-04,39000,Onyx Freight,onyxfreight.example,Banking,11289,Poland,4,Bank,,,,,,,
+100081,Closed Lost,2025-12-07,2026-02-26,36000,Quartz Cloud,quartzcloud.example,Healthtech,1287,Sweden,7,B2B SaaS,,Chose competitor,,,,,
+100082,Closed Lost,2025-12-11,2026-08-03,76000,Thistle Health,thistlehealth.example,Banking,12210,Sweden,5,Bank,,Procurement cycle,,,,,
+100083,Closed Lost,2025-12-15,2026-02-02,38000,Willow Pay,willowpay.example,Marketplace,197,Germany,2,Marketplace,,No budget,,,,,
+100084,Closed Lost,2025-12-28,2026-03-30,60000,Thistle Labs,thistlelabs.example,Logistics software,1744,Spain,4,B2B SaaS,,Chose competitor,,,,,
+100085,Closed Lost,2025-12-28,2026-10-15,41000,Onyx Cloud,onyxcloud.example,Banking,9479,Netherlands,5,Bank,,Procurement cycle,,,,,
+100086,Closed Lost,2026-01-10,2026-05-31,56000,Yarrow Trade,yarrowtrade.example,Banking,16791,Ireland,4,Bank,,Procurement cycle,,,,,
+100087,Closed Won,2026-01-14,2026-03-07,110000,Kestrel Freight,kestrelfreight.example,Fintech software,1577,Sweden,8,B2B SaaS,Enterprise,,active,,0,0.9,10
+100088,Closed Won,14/01/2026,05/02/2026,4500,Gizmoria,gizmoria.example,Software,31,United Kingdom,1,Start-up,Starter,,active,,0,3.3,35
+100089,Closed Lost,2026-01-23,2026-04-23,49000,Thistle Grid,thistlegrid.example,Logistics software,251,Poland,7,B2B SaaS,,Chose competitor,,,,,
+100090,Closed Lost,2026-01-25,2026-02-24,24000,Quartz Ledger,quartzledger.example,Marketplace,306,Ireland,1,Marketplace,,No budget,,,,,
+100091,Closed Lost,2026-01-28,2026-10-01,69500,Violet Freight,violetfreight.example,Banking,18637,Germany,5,Bank,,Went with in-house,,,,,
+100092,Closed Lost,2026-01-28,2026-02-15,6500,Maple Freight,maplefreight.example,Software,10,Sweden,1,Start-up,,,,,,,
+100093,Closed Lost,2026-02-02,2026-02-16,4000,Cobalt Freight,cobaltfreight.example,Software,15,United Kingdom,1,Start-up,,No decision,,,,,
+100094,Closed Lost,2026-02-08,2026-02-21,6000,Violet Logic,violetlogic.example,Software,32,Italy,2,Start-up,,Chose competitor,,,,,
+100095,Closed Lost,2026-02-09,2026-07-09,66000,Juniper Health,juniperhealth.example,Banking,17622,France,6,Bank,,Compliance and licensing,,,,,
+100096,Closed Lost,2026-02-10,2026-04-06,47500,Nimbus Mobility,nimbusmobility.example,Fintech software,1541,Ireland,3,B2B SaaS,,Chose competitor,,,,,
+100097,Closed Won,2026-02-24,2026-04-28,48000,Umberstack,umberstack.example,Healthtech,772,Italy,3,B2B SaaS,Scale,,active,,0,0.7,26
+100098,Closed Lost,2026-03-06,2026-05-31,48000,Birch Grid,birchgrid.example,Logistics software,1108,United Kingdom,6,B2B SaaS,,Chose competitor,,,,,
+100099,Closed Won,2026-03-12,2026-10-17,55000,Northhaven Bank,northhavenbank.example,Banking,9627,Italy,6,Bank,Scale,,active,,0,0.8,85
+100100,Closed Lost,2026-03-15,2026-08-06,58500,Thistle Cloud,thistlecloud.example,Banking,8992,Sweden,5,Bank,,Compliance and licensing,,,,,
+100101,Closed Lost,2026-03-22,2026-04-19,6500,Dawn Grid,dawngrid.example,Software,15,Germany,2,Start-up,,No budget,,,,,
+100102,Closed Lost,2026-03-28,2026-07-25,83500,Willow Ledger,willowledger.example,Banking,18513,Denmark,6,Bank,,Went with in-house,,,,,
+100103,Closed Lost,2026-03-30,2026-06-05,58000,Fjord Pay,fjordpay.example,Healthtech,303,Italy,9,B2B SaaS,,Went with in-house,,,,,
+100104,Closed Lost,2026-04-03,2026-04-27,27000,Amber Labs,amberlabs.example,Marketplace,208,Germany,1,Marketplace,,No budget,,,,,
+100105,Closed Lost,2026-04-06,2026-06-07,58000,Harbor Data,harbordata.example,Logistics software,1400,United Kingdom,4,B2B SaaS,,Chose competitor,,,,,
+100106,Closed Lost,2026-04-15,2026-06-02,39500,Kite Logic,kitelogic.example,Marketplace,231,Sweden,1,Marketplace,,Chose competitor,,,,,
+100107,Closed Lost,2026-04-16,2026-06-29,35000,Slate Grid,slategrid.example,Healthtech,466,Sweden,7,B2B SaaS,,No decision,,,,,
+100108,Closed Lost,2026-04-21,2026-06-22,37500,Ivory Systems,ivorysystems.example,Healthtech,425,Netherlands,8,B2B SaaS,,Chose competitor,,,,,
+100109,Closed Lost,2026-04-23,2026-07-07,54000,Raven Works,ravenworks.example,Logistics software,230,United Kingdom,5,B2B SaaS,,Integration time,,,,,
+100110,Closed Lost,2026-04-23,2026-05-17,3500,Ivory Data,ivorydata.example,Software,9,Sweden,1,Start-up,,No decision,,,,,
+100111,Closed Won,2026-04-30,2026-06-27,24000,Coppergate,coppergate.example,Marketplace,209,Poland,2,Marketplace,Growth,,active,,0,2.2,33
+100112,Closed Won,2026-05-04,2026-07-12,40000,Tallyroom,tallyroom.example,Fintech software,1727,Ireland,3,B2B SaaS,Scale,,active,,19000,1.3,20
+100113,Closed Lost,2026-05-08,2026-08-19,51000,Ivory Stack,ivorystack.example,Software,1793,Poland,5,B2B SaaS,,Went with in-house,,,,,
+100114,Closed Lost,2026-05-14,2026-07-03,23500,Onyx Systems,onyxsystems.example,Marketplace,542,Denmark,1,Marketplace,,,,,,,
+100115,Closed Won,2026-05-15,2026-07-06,41500,Brightwell Health,brightwellhealth.example,Logistics software,1689,Poland,9,B2B SaaS,Scale,,active,,8000,0.8,20
+100116,Closed Lost,2026-05-17,2026-07-15,57000,Birch Data,birchdata.example,Software,1138,Netherlands,8,B2B SaaS,,Chose competitor,,,,,
+100117,Closed Won,2026-05-22,2026-07-16,39500,Wrenfield,wrenfield.example,Fintech software,1180,Spain,9,B2B SaaS,Growth,,active,,11500,1.4,18
+100118,Closed Lost,2026-06-12,2026-08-14,,Lantern Cloud,lanterncloud.example,Marketplace,190,Ireland,2,Marketplace,,No budget,,,,,
+100119,Closed Lost,01/07/2026,19/08/2026,26500,Dawn Data,dawndata.example,Marketplace,162,Denmark,2,Marketplace,,No budget,,,,,
+100120,Closed Lost,2026-07-17,2026-10-09,48500,Harbor Works,harborworks.example,Logistics software,334,Sweden,4,B2B SaaS,,Chose competitor,,,,,
+100121,Closed Won,2026-08-01,2026-09-18,33000,Fernhollow,fernhollow.example,Marketplace,470,Ireland,2,Marketplace,Growth,,active,,13000,2.0,41
+100122,Closed Lost,2026-08-14,2026-10-14,21000,Thistle Mobility,thistlemobility.example,Marketplace,181,Poland,1,Marketplace,,No decision,,,,,
+100123,Closed Lost,16/08/2026,29/08/2026,5500,Amber Health,amberhealth.example,Software,35,United Kingdom,2,Start-up,,Chose competitor,,,,,
+100124,Closed Lost,2026-09-07,2026-09-24,4500,Raven Logic,ravenlogic.example,Software,29,Spain,2,Start-up,,,,,,,
+100125,Closed Lost,2026-09-08,2026-09-20,6000,Raven Health,ravenhealth.example,Software,14,Spain,2,Start-up,,No budget,,,,,
+100061,Closed Won,2025-08-03,2025-10-01,33000,Gladewell Trade,gladewelltrade.example,Marketplace,501,France,1,Marketplace,Growth,,active,,19500,1.7,25
+100009,Closed Lost,2024-11-15,2025-01-11,18500,Juniper Works,juniperworks.example,Marketplace,369,Germany,2,Marketplace,,No decision,,,,,
+100126,Closed Lost,2026-01-17,2026-03-15,43000,Birch Logic,birchlogic.example,Fintech software,1630,Ireland,1,B2B SaaS,,Chose competitor,,,,,
+100127,Closed Lost,2026-05-14,2026-07-05,43000,Slate Freight,slatefreight.example,Healthtech,1320,Spain,2,B2B SaaS,,Chose competitor,,,,,
+100128,Closed Lost,2025-02-09,2025-04-25,58500,Fjord Labs,fjordlabs.example,Healthtech,1423,Denmark,2,B2B SaaS,,Integration time,,,,,
+100129,Closed Lost,2026-05-17,2026-08-09,31000,Cobalt Systems,cobaltsystems.example,Logistics software,325,Sweden,1,B2B SaaS,,Chose competitor,,,,,
+100130,Closed Lost,2026-05-22,2026-08-13,54000,Slate Trade,slatetrade.example,Fintech software,1530,Germany,1,B2B SaaS,,Went with in-house,,,,,
+100131,Closed Lost,2025-12-24,2026-03-11,35000,Lantern Retail,lanternretail.example,Logistics software,364,Netherlands,2,B2B SaaS,,Went with in-house,,,,,

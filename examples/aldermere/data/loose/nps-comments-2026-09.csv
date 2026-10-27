@@ -1,0 +1,13 @@
+date,score,comment,role
+2026-09-02,9,One integration instead of four. Our engineers noticed within a week.,Head of Platform
+2026-09-03,8,Pricing table was clear. Would like longer price locks.,Finance Director
+2026-09-04,6,Support during local business hours only. We need weekends.,Director of Engineering
+2026-09-05,9,Compliance finally had everything in one export.,Compliance Officer
+2026-09-07,10,Went live in a new country in under two weeks.,CTO
+2026-09-08,4,Too many tickets for the volume we do. Minimum fee is hard to justify.,Founder
+2026-09-09,7,Good product. Docs lag behind the API.,Product Manager
+2026-09-10,9,No more surprises on the invoice.,CFO
+2026-09-11,5,Payout cut-off times cause a spike of tickets every month.,COO
+2026-09-12,8,Sandbox is clear. Test cards match real behaviour.,VP Engineering
+2026-09-14,3,We're too small for this. Looking at cheaper options.,CEO
+2026-09-15,9,Currency fees are finally predictable.,Head of Finance

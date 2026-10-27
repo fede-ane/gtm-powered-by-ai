@@ -1,0 +1,9 @@
+# GTM powered by AI: your data and outputs stay on your machine.
+# Only the README files and sources.md are committed.
+gtm/inputs/**
+!gtm/inputs/**/
+!gtm/inputs/**/README.md
+!gtm/inputs/market-voice/sources.md
+gtm/outputs/**
+!gtm/outputs/**/
+!gtm/outputs/**/README.md

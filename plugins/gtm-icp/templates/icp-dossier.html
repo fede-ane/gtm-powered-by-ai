@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Aldermere Payments ICP Dossier</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  /* GTM powered by AI · ICP dossier. One reading column; sections in the same order as icp.md and buying-group.md.
+     Keep this style block unchanged when you fill the page. */
+  :root {
+    --bg: #F3F5F4; --surface: #FFFFFF; --ink: #17201F; --muted: #5A6866; --line: #D5DDDB;
+    --accent: #0F6E6A; --accent-soft: #DCEFED; --good: #2F6B2B; --good-soft: #E3F0DE; --warn: #8A4B0F; --warn-soft: #F7EAD9;
+    --head: "Bricolage Grotesque", "Avenir Next", "Segoe UI", sans-serif;
+    --body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+    --bg: #111716; --surface: #1A2221; --ink: #E6ECEA; --muted: #9AA9A6; --line: #2E3A38;
+    --accent: #5CC2B9; --accent-soft: #173533; --good: #93CD86; --good-soft: #1E3220; --warn: #E8B07A; --warn-soft: #3A2A1A; color-scheme: dark; } }
+  :root[data-theme="dark"] {
+    --bg: #111716; --surface: #1A2221; --ink: #E6ECEA; --muted: #9AA9A6; --line: #2E3A38;
+    --accent: #5CC2B9; --accent-soft: #173533; --good: #93CD86; --good-soft: #1E3220; --warn: #E8B07A; --warn-soft: #3A2A1A; color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.55;
+         padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  h1, h2, h3 { font-family: var(--head); font-weight: 700; margin: 0; line-height: 1.15; text-wrap: balance; }
+  h1 { font-size: clamp(26px, 4.5vw, 34px); }
+  h2 { font-size: 19px; margin-bottom: 12px; }
+  h3 { font-size: 16px; }
+  p { margin: 0; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding-block: 28px 48px; display: grid; gap: 30px; }
+  .wrap > * { min-width: 0; }
+  .banner { background: var(--warn-soft); color: var(--warn); font-size: 13px; padding: 8px 14px; border-radius: 6px; }
+  .eyebrow { font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .meta { color: var(--muted); font-size: 13px; }
+  .note { font-size: 13px; color: var(--muted); margin-top: 8px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px; min-width: 0; }
+  .pill { display: inline-block; font-family: var(--mono); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; padding: 2px 8px; border-radius: 99px; white-space: nowrap; }
+  .pill.core { background: var(--accent-soft); color: var(--accent); }
+  .pill.muted { color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); }
+  .pill.pass { background: var(--good-soft); color: var(--good); }
+  .pill.fix, .pill.neg { background: var(--warn-soft); color: var(--warn); }
+  .tag { font-family: var(--mono); font-size: 10px; color: var(--warn); background: var(--warn-soft); padding: 1px 6px; border-radius: 3px; white-space: nowrap; }
+  .src { font-size: 12px; color: var(--muted); font-style: italic; }
+  .blank { color: var(--muted); font-style: italic; }
+  dl.f { margin: 0; display: grid; grid-template-columns: 170px 1fr; gap: 9px 14px; }
+  dl.f dt { font-family: var(--mono); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); padding-top: 3px; }
+  dl.f dd { margin: 0; min-width: 0; }
+  .scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .scroll table { min-width: 760px; }
+  th, td { text-align: left; vertical-align: top; padding: 9px 10px; border-bottom: 1px solid var(--line); }
+  tr:last-child td { border-bottom: 0; }
+  th { font-family: var(--mono); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
+  td.n { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  tr.core td { background: var(--accent-soft); }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .quotes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+  .quote { margin: 0; display: grid; gap: 8px; align-content: space-between; }
+  .roles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  .role { display: grid; gap: 8px; align-content: start; }
+  .bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+  .bar i { display: block; height: 100%; background: var(--accent); }
+  .personas { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .persona { display: grid; gap: 12px; align-content: start; border-top: 4px solid var(--accent); }
+  .persona header { display: flex; justify-content: space-between; align-items: start; gap: 8px; }
+  .persona dl.f { grid-template-columns: 110px 1fr; }
+  footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; display: grid; gap: 6px; }
+  @media (max-width: 980px) { .roles { grid-template-columns: repeat(2, minmax(0, 1fr)); } .quotes { grid-template-columns: 1fr; } }
+  @media (max-width: 760px) { .two, .personas { grid-template-columns: 1fr; } }
+  @media (max-width: 520px) { .roles { grid-template-columns: 1fr; } dl.f, .persona dl.f { grid-template-columns: 1fr; gap: 2px 0; } dl.f dd { margin-bottom: 8px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<!-- TEMPLATE: delete this banner when you fill the page. Every value below is a fictional example. -->
+<p class="banner" role="note">Template example built from Aldermere Payments, a fictional company. Replace every piece of content with the content of icp.md and buying-group.md.</p>
+
+<!-- Header: from the frontmatter of icp.md -->
+<header>
+  <p class="eyebrow">ICP dossier</p>
+  <h1>Mid-market SaaS selling in three or more countries</h1>
+  <p class="meta">Aldermere Payments · Stage: validated (33 customers, 125 deals) · B2B · Draft · Updated 2026-10-26 · Open tags: 6 · Checks: 1 fixed, 6 open</p>
+</header>
+
+<!-- icp.md · Who buys now -->
+<section class="card" aria-labelledby="now">
+  <h2 id="now">Who buys now</h2>
+  <dl class="f">
+    <dt>Company type and size</dt><dd>B2B SaaS, 200 to 2,000 employees, selling in 3 or more countries</dd>
+    <dt>Buying champion</dt><dd>The technology leader, with the finance lead as budget owner (see buying group)</dd>
+    <dt>What they buy</dt><dd>Payments API on an annual contract, mean €48,000 a year; 9 of 14 have expanded</dd>
+    <dt>Where they find you</dt><dd class="blank">Blank: no lead source in the export</dd>
+    <dt>Where they spend time</dt><dd class="blank">Blank: no data. Fill from "How did you hear about us?"</dd>
+    <dt>Pains</dt><dd>Each new country means a new payment provider and a new integration</dd>
+    <dt>Objections</dt><dd>Lock-in to one provider; currency fees that appear after signing</dd>
+    <dt>Triggers and what they set off</dt><dd>A new market with a launch date, so finance asks for local costs and engineering checks local payment methods</dd>
+  </dl>
+</section>
+
+<!-- icp.md · Who you want next (only when the file has it; delete the section otherwise) -->
+<section class="card" aria-labelledby="next">
+  <h2 id="next">Who you want next</h2>
+  <dl class="f">
+    <dt>Label</dt><dd>Large banks and financial institutions <span class="tag">to confirm</span></dd>
+    <dt>What would validate it</dt><dd>Five won bank deals in the CRM. Today: 2 won of 22.</dd>
+    <dt>Decision</dt><dd>Copy speaks to mid-market SaaS today; banks get their own programme. Decided by the CMO, 2026-10-26.</dd>
+  </dl>
+</section>
+
+<!-- icp.md · Segments -->
+<section aria-labelledby="segs">
+  <h2 id="segs">Segments</h2>
+  <div class="card scroll" style="padding:4px 8px">
+    <table>
+      <thead><tr><th>Segment</th><th>Customers (revenue)</th><th>Value</th><th>Loyalty</th><th>Conversion</th><th>Cost to serve</th><th>Tier</th></tr></thead>
+      <tbody>
+        <tr class="core"><td><b>Mid-market SaaS, 3+ countries</b></td><td class="n">14 (63%)</td><td class="n">€48,000</td><td class="n">93%</td><td class="n">31%, 71 days</td><td class="n">1.1 tickets a month, 19 days</td><td><span class="pill core">Core</span></td></tr>
+        <tr><td>Marketplaces, 1 or 2 countries</td><td class="n">7 (20%)</td><td class="n">€31,000</td><td class="n">86%</td><td class="n">22%, 57 days</td><td class="n">2.0 tickets a month, 36 days</td><td><span class="pill muted">Adjacent</span></td></tr>
+        <tr><td>Large banks</td><td class="n">2 (11%)</td><td class="blank">Blank: 2 won, too few to rank</td><td class="blank">Blank: 2 won, too few to rank</td><td class="n">9% of 22 deals</td><td class="blank">Blank: 2 won, too few to rank</td><td><span class="pill muted">Stretch</span></td></tr>
+        <tr><td>Start-ups under 50 people</td><td class="n">10 (6%)</td><td class="n">€6,000</td><td class="n">50%</td><td class="n">38%, 20 days</td><td class="n">3.1 tickets a month, 35 days</td><td><span class="pill neg">Negative</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Ranked on value and loyalty first, then conversion and cost to serve. Start-ups are the easiest to win, not the best customers.</p>
+</section>
+
+<!-- icp.md · Negative ICP -->
+<section class="two" aria-label="Negative ICP">
+  <div class="card"><p class="eyebrow">Negative ICP · screen out before buying</p><p style="margin-top:6px">One country only, under 50 employees.</p></div>
+  <div class="card"><p class="eyebrow">Negative ICP · shows up after</p><p style="margin-top:6px">Volume stays low, so the monthly minimum outweighs the use; half churn. <span class="src">interview-02.md, deals.csv</span></p></div>
+</section>
+
+<!-- icp.md · Their words: one figure per quote -->
+<section aria-labelledby="words">
+  <h2 id="words">Their words</h2>
+  <div class="quotes">
+    <figure class="card quote"><p>"Every new country was another provider, another contract, another integration. We were drowning."</p><figcaption class="src">Head of Engineering, Kestrel Freight · call-04.md</figcaption></figure>
+    <figure class="card quote"><p>"I need the cost per transaction in every market before I sign."</p><figcaption class="src">Finance lead, Brightwell Health · call-12.md</figcaption></figure>
+    <figure class="card quote"><p>"If it takes my team more than a sprint to integrate, it doesn't ship this quarter."</p><figcaption class="src">CTO, Novafield · interview-03.md</figcaption></figure>
+  </div>
+</section>
+
+<!-- icp.md · Jobs to be done: only when the file has it; delete the section otherwise -->
+<section class="card" aria-labelledby="jobs">
+  <h2 id="jobs">Jobs to be done</h2>
+  <p>When we open another country, I want one integration that already covers it, so my team keeps building instead of reconciling payouts. <span class="tag">to confirm</span> <span class="src">Rewritten from call-01.md</span></p>
+</section>
+
+<!-- buying-group.md · Buying group: up to 4 roles; each card names where its role comes from.
+     Every quote, here as anywhere on the page, is cited by role, company and file. -->
+<section aria-labelledby="group">
+  <h2 id="group">Buying group</h2>
+  <div class="roles">
+    <div class="card role"><div><span class="pill core">Primary</span></div><h3>Technology leader</h3><p class="meta">Champion and technical evaluator</p><div class="bar"><i style="width:93%"></i></div><p class="eyebrow">on 13 of 14 won deals</p><p class="src">Deal role: champion 4, technical evaluator 4. "I ran the technical check myself" (Head of Engineering, Kestrel Freight, call-04.md)</p></div>
+    <div class="card role"><div><span class="pill core">Primary</span></div><h3>Finance lead</h3><p class="meta">Budget owner, signs the contract</p><div class="bar"><i style="width:86%"></i></div><p class="eyebrow">on 12 of 14 won deals</p><p class="src">Deal role: budget owner 6. "then took the cost sheet to our finance lead" (Head of Engineering, Kestrel Freight, call-04.md)</p></div>
+    <div class="card role"><div><span class="pill muted">Supporting</span></div><h3>Compliance lead</h3><p class="meta">Can block, joins late</p><div class="bar"><i style="width:43%"></i></div><p class="eyebrow">on 6 of 14 won deals</p><p class="src">Joined at Legal. "We nearly blocked it." (Head of Compliance, Redwater Analytics, call-05.md)</p></div>
+    <div class="card role"><div><span class="pill muted">Supporting</span></div><h3>Product manager</h3><p class="meta">Day-to-day user</p><div class="bar"><i style="width:29%"></i></div><p class="eyebrow">on 4 of 14 won deals</p><p class="src">Deal role: user 1. Joins after engineering has chosen (Product Manager, Pinecrest Software, call-03.md)</p></div>
+  </div>
+  <p class="note">From the contacts on won deals in the Core segment. Up to 4 roles; roles with the same decision criteria are merged.</p>
+</section>
+
+<!-- buying-group.md · Personas: one article per primary role, fields in this order -->
+<section aria-labelledby="personas">
+  <h2 id="personas">Personas</h2>
+  <div class="personas">
+    <article class="card persona">
+      <header><div><h3>Technology leader</h3><p class="meta">Champion · primary</p></div><span class="pill core">13 of 14</span></header>
+      <dl class="f">
+        <dt>Role</dt><dd>CTO, VP or Director of Engineering, Head of Platform at a mid-market software company. Seen at Kestrel Freight, Novafield, Sablefin.</dd>
+        <dt>Needs</dt><dd>One integration that covers new countries, live within a sprint; one on-call rota, not one per provider.</dd>
+        <dt>Pain points</dt><dd>"Every new country was another provider, another contract, another integration. We were drowning." <span class="src">Head of Engineering, Kestrel Freight, call-04.md</span><br>"One more provider means one more on-call rota." <span class="src">Head of Platform, Sablefin, call-11.md</span></dd>
+        <dt>Objections</dt><dd>Lock-in to one provider. Support only in office hours. <span class="src">call-01.md, call-04.md</span></dd>
+        <dt>Message</dt><dd>"One integration, every market." <span class="tag">proposed</span> <span class="src">Their words, not ours:</span> "If it takes my team more than a sprint to integrate, it doesn't ship this quarter." <span class="src">CTO, Novafield, interview-03.md</span></dd>
+        <dt>Proof to show</dt><dd>Live in a new country in nine days. <span class="src">Head of Platform, Sablefin, call-11.md</span> Onboarding in 19 days on average. <span class="src">deals.csv</span></dd>
+      </dl>
+    </article>
+    <article class="card persona">
+      <header><div><h3>Finance lead</h3><p class="meta">Budget owner · primary</p></div><span class="pill core">12 of 14</span></header>
+      <dl class="f">
+        <dt>Role</dt><dd>CFO, VP Finance, Head of Finance or Treasury at a mid-market software company. Seen at Brightwell Health, Tidepool Systems, Ostrava Labs.</dd>
+        <dt>Needs</dt><dd>The all-in cost per transaction in every market, in one table the board can read, before signing.</dd>
+        <dt>Pain points</dt><dd>"I need the cost per transaction in every market before I sign." <span class="src">Finance lead, Brightwell Health, call-12.md</span><br>"With our last provider they showed up on the invoice, not in the contract." <span class="src">VP Finance, Ostrava Labs, call-08.md</span></dd>
+        <dt>Objections</dt><dd>Contract length. Currency fees changing after the first year. <span class="src">call-02.md, call-12.md</span></dd>
+        <dt>Message</dt><dd>"Know the cost of every payment, in every market, before you sign." <span class="tag">proposed</span> <span class="src">Their words, not ours:</span> "Give me the conversion margin in writing and I'll stop asking." <span class="src">VP Finance, Ostrava Labs, call-08.md</span></dd>
+        <dt>Proof to show</dt><dd class="blank">Blank: no pricing proof in the inputs</dd>
+      </dl>
+    </article>
+  </div>
+</section>
+
+<!-- buying-group.md · Supporting roles -->
+<section class="card" aria-labelledby="support">
+  <h2 id="support">Supporting roles</h2>
+  <dl class="f">
+    <dt>Compliance lead</dt><dd>Joins at legal review; needs the licence per country and an exportable audit trail. <span class="src">Redwater Analytics, call-05.md</span></dd>
+    <dt>Product manager</dt><dd>Joins at evaluation; needs local payment methods to show up at checkout. <span class="src">Pinecrest Software, call-03.md</span></dd>
+  </dl>
+</section>
+
+<!-- icp.md and buying-group.md · Checks -->
+<section aria-labelledby="checks">
+  <h2 id="checks">Checks before you use it</h2>
+  <div class="card scroll" style="padding:4px 8px">
+    <table>
+      <tbody>
+        <tr><td><b>Question test</b></td><td>One line failed: "Wants a modern stack". Rewritten from call-07.md as "a clear sandbox and docs that match the API".</td><td><span class="pill fix">1 fixed</span></td></tr>
+        <tr><td><b>One idea per cell</b></td><td>No cell mixes several ideas.</td><td><span class="pill pass">Pass</span></td></tr>
+        <tr><td><b>Ambiguous words</b></td><td>"Platform" pinned to "the customer's own billing system".</td><td><span class="pill pass">Pass</span></td></tr>
+        <tr><td><b>Unproven lines</b></td><td>6 open tags: 4 to confirm, 2 proposed. Cut, correct or keep each one before building on these files.</td><td><span class="pill fix">6 open</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- Footer: sources and blanks, from the frontmatter and Data notes -->
+<footer>
+  <p><b>Built from</b> deals.csv (125 deals, 2024-11 to 2026-10, 2 duplicates removed), deal-contacts.csv (340 contacts, personal data ignored), customer-voice (12 calls, 3 interviews, NPS comments).</p>
+  <p><b>Blank, not guessed:</b> where they find you, where they spend time, finance proof. <b>Not used:</b> a press release (doesn't describe the buyer).</p>
+  <p>Source files: icp.md and buying-group.md. This page holds nothing they don't.</p>
+</footer>
+
+</div>
+</body>
+</html>
