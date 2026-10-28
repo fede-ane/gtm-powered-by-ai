@@ -6,7 +6,7 @@ Modules for AI-native B2B demand generation, built for [federicoanedda.com](http
 
 | Module | What it does | Version |
 |---|---|---|
-| **gtm-icp** | Builds your ICP, your buying group and one persona per main role from your own CRM deals and customer words, into Markdown files and a one-page dossier. Every number is calculated, every quote is word for word, and what isn't proven is tagged. | 0.1.2 |
+| **gtm-icp** | Builds your ICP, your buying group and one persona per main role from your own CRM deals and customer words, into Markdown files and a one-page dossier. Every number is calculated, every quote is word for word, and what isn't proven is tagged. | 0.1.3 |
 
 ## Install
 

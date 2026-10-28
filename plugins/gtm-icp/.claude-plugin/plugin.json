@@ -1,6 +1,6 @@
 {
   "name": "gtm-icp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "GTM powered by AI, ICP module: build your ICP, the buying group and one persona per main role from your own CRM deals and customer words, into a shared gtm/ workspace and a one-page dossier. Every number is calculated, every quote is word for word, and what isn't proven is tagged.",
   "author": { "name": "Federico Anedda", "url": "https://federicoanedda.com" },
   "homepage": "https://federicoanedda.com",
