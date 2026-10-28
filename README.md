@@ -10,14 +10,26 @@ Modules for AI-native B2B demand generation, built for [federicoanedda.com](http
 
 ## Install
 
-In Claude Code:
+### In the Claude app
+
+1. Open Claude and click **Customize**.
+2. Select **Plugins**, then **Add (+)** and **Add marketplace**.
+3. Choose **Add from repository** and paste `https://github.com/federicoanedda/gtm-powered-by-ai`.
+4. Confirm with **Add**.
+5. Choose **gtm-icp** and install it.
+
+### In Claude Code
 
 ```
 /plugin marketplace add federicoanedda/gtm-powered-by-ai
 /plugin install gtm-icp@gtm-powered-by-ai
 ```
 
-Then, in a project folder:
+To get a new version: `claude plugin marketplace update gtm-powered-by-ai`, then `claude plugin update gtm-icp@gtm-powered-by-ai`.
+
+## Use it
+
+In a project folder:
 
 1. `/gtm-icp:setup` creates the `gtm/` workspace. It never overwrites a file.
 2. Put your deals export and the contacts on those deals in `gtm/inputs/crm/`, and your customer words (calls, interviews, survey answers) in `gtm/inputs/customer-voice/`. The README in each folder lists what it needs.
@@ -44,14 +56,16 @@ gtm-powered-by-ai/
 │       │   ├── setup.sh                creates gtm/ and the .gitignore block
 │       │   └── crm_profile.py          read-only: cleans the CRM export and computes the scorecard
 │       └── templates/                  workspace files, output templates, the page template
-└── examples/aldermere/                 invented data to try the plugin
+├── examples/aldermere/                 invented data to try the plugin
+├── LICENSE                             MIT
+└── NOTICE                              credit and licence for the adapted ICP method
 ```
 
 The segment scorecard is computed by `crm_profile.py` (Python 3, standard library only), not estimated by the model.
 
 ## Credits
 
-The ICP method is adapted from [`icp-synthesis`](https://github.com/nickyc1/ship-icp-ads-automate-monitoring) by Nick Christensen (MIT; see `NOTICE`). The buying group and personas are this module's own addition.
+The ICP method is adapted from [`icp-synthesis`](https://github.com/nickyc1/ship-icp-ads-automate-monitoring) by Nick Christensen (MIT), and parts of its wording are kept as written. `NOTICE` lists the files that contain it and includes his licence. The buying group, the personas, the CRM scorecard, the setup and the sync are this module's own.
 
 ## Licence
 

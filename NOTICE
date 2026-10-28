@@ -1,8 +1,19 @@
 This repository includes material adapted from `icp-synthesis` by Nick Christensen
 (https://github.com/nickyc1/ship-icp-ads-automate-monitoring), used under the MIT licence below.
-The adapted material is the ICP method in plugins/gtm-icp/skills/icp-buying-group/SKILL.md
-and plugins/gtm-icp/templates/icp.md. The buying group, the personas and the rest of
-the module are original to this repository.
+
+The adapted material is the ICP method: how customers are segmented, scored and ranked,
+and how the ideal customer profile is written. Parts of its wording are kept as written.
+It is mainly in:
+
+- plugins/gtm-icp/skills/icp-buying-group/SKILL.md
+- plugins/gtm-icp/templates/icp.md
+
+Short phrases from the same source also appear in plugins/gtm-icp/templates/gtm/RULES.md,
+plugins/gtm-icp/commands/dossier.md and plugins/gtm-icp/templates/icp-dossier.html.
+
+The buying group, the personas, the CRM scorecard script (crm_profile.py), the setup,
+the sync between the Markdown files and the page, the draft and final step, and the
+example data are original to this repository.
 
 MIT License
 
